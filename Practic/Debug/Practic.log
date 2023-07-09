@@ -1,0 +1,5 @@
+﻿  Practic.cpp
+C:\Users\Kirill\source\repos\Practic\Practic\Practic.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Kirill\source\repos\Practic\Practic\Practic.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Kirill\source\repos\Practic\Practic\Practic.cpp(111,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Practic.vcxproj -> C:\Users\Kirill\source\repos\Practic\Debug\Practic.exe
