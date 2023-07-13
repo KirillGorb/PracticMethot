@@ -1,5 +1,9 @@
 ﻿  Practic.cpp
-C:\Users\Kirill\source\repos\Practic\Practic\Practic.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-C:\Users\Kirill\source\repos\Practic\Practic\Practic.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-C:\Users\Kirill\source\repos\Practic\Practic\Practic.cpp(111,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  Practic.vcxproj -> C:\Users\Kirill\source\repos\Practic\Debug\Practic.exe
+C:\Users\Kirill\source\repos\Practic\PracticMethot\Practic\Practic.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Kirill\source\repos\Practic\PracticMethot\Practic\Practic.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Kirill\source\repos\Practic\PracticMethot\Practic\Practic.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Kirill\source\repos\Practic\PracticMethot\Practic\Practic.cpp(100,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Kirill\source\repos\Practic\PracticMethot\Practic\Practic.cpp(112,15): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kirill\source\repos\Practic\PracticMethot\Practic\Practic.cpp(151,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kirill\source\repos\Practic\PracticMethot\Practic\Practic.cpp(152,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Practic.vcxproj -> C:\Users\Kirill\source\repos\Practic\PracticMethot\Debug\Practic.exe
